@@ -538,6 +538,24 @@
         <filterScope>Everything</filterScope>
         <label>Platinum and Gold SLA Customers</label>
     </listViews>
+    <recordTypes>
+        <fullName>CommitRec1</fullName>
+        <active>true</active>
+        <description>checking commit diff2</description>
+        <label>CommitRec1</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>CommitRec2</fullName>
+        <active>true</active>
+        <description>checking commit diff4</description>
+        <label>CommitRec2</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>CommitRec3</fullName>
+        <active>true</active>
+        <description>checking commit diff3</description>
+        <label>CommitRec3</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.ADDRESS1_CITY</customTabListAdditionalFields>
