@@ -2469,12 +2469,12 @@
         <recordType>Account.CommitRec1</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Account-Account Layout 360</layout>
-        <recordType>Account.CommitRec3</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Account-Account Layout 3</layout>
         <recordType>Account.CommitRec2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout 360</layout>
+        <recordType>Account.CommitRec3</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Address-Address Layout</layout>

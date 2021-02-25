@@ -2516,6 +2516,21 @@
     </layoutAssignments>
     <recordTypeVisibilities>
         <default>false</default>
+        <recordType>Account.CommitRec1</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.CommitRec2</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.CommitRec3</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
         <recordType>Contact.TechlTest1</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>

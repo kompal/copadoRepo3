@@ -2465,6 +2465,18 @@
         <layout>Account-Account %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Account-Account %28Sales%29 Layout</layout>
+        <recordType>Account.CommitRec1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account %28Sales%29 Layout</layout>
+        <recordType>Account.CommitRec2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account %28Sales%29 Layout</layout>
+        <recordType>Account.CommitRec3</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Address-Address Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2948,6 +2960,21 @@
         <object>Solution</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.CommitRec1</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.CommitRec2</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.CommitRec3</recordType>
+        <visible>false</visible>
+    </recordTypeVisibilities>
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Contact.TechlTest1</recordType>

@@ -2469,12 +2469,12 @@
         <recordType>Account.CommitRec1</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Account-Account Layout 360</layout>
-        <recordType>Account.CommitRec3</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Account-Account Layout 3</layout>
         <recordType>Account.CommitRec2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout 360</layout>
+        <recordType>Account.CommitRec3</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Address-Address Layout</layout>
@@ -2543,16 +2543,16 @@
         <layout>Contact-Contact Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Contact-Contact Layout</layout>
+        <recordType>Contact.TechlTest1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Contact-Contact Layout 2</layout>
         <recordType>Contact.TechlTest2</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Contact-Contact Layout 3</layout>
         <recordType>Contact.TechlTest3</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-Contact Layout</layout>
-        <recordType>Contact.TechlTest1</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ContactPointAddress-Contact Point Address Layout</layout>
