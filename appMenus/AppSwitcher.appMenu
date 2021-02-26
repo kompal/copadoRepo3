@@ -81,7 +81,11 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>kompaldev4</name>
+        <name>kompal</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>kompal2</name>
         <type>Network</type>
     </appMenuItems>
 </AppMenu>

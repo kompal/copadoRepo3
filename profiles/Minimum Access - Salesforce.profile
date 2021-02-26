@@ -149,6 +149,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>KompalPD</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>KompalPDTest</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>LightningForgotPasswordController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -2678,17 +2686,6 @@
         <layout>InternalOrganizationUnit-Internal Organization Unit Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>KompalCustom__c-KompalCustom Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>KompalCustom__c-KompalCustom Layout</layout>
-        <recordType>KompalCustom__c.TestRecord1</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>KompalCustom__c-KompalCustom Layout</layout>
-        <recordType>KompalCustom__c.TestRecord2</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>LegalEntity-Legal Entity Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2793,47 +2790,7 @@
     </pageAccesses>
     <recordTypeVisibilities>
         <default>false</default>
-        <recordType>Account.CommitRec1</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Account.CommitRec2</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Account.CommitRec3</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Contact.TechlTest1</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Contact.TechlTest2</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>Contact.TechlTest3</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
         <recordType>Idea.InternalIdeasIdeaRecordType</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>KompalCustom__c.TestRecord1</recordType>
-        <visible>false</visible>
-    </recordTypeVisibilities>
-    <recordTypeVisibilities>
-        <default>false</default>
-        <recordType>KompalCustom__c.TestRecord2</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
